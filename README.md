@@ -9,6 +9,7 @@ KlaviyoDeployer is an opensource project by [Gabe Fletcher](https://dub.sh/gabe)
 ## Usage
 ### 1. Download the KlaviyoDeployer HTML File:
 - Go to this repository's [Releases](https://github.com/gabefletch/KlaviyoDeployer/releases/) and click "index.html" under the latest release to download it.
+- Take note that re-naming "index.html" in any way will make your site undeployable. It must have this name to be recognized by GitHub Pages.
 ### 2. Create your own repository:
 - Click the "+" icon next to your profile picture in the upper-right of GitHub
 - Click "New repository"
