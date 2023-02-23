@@ -1,4 +1,5 @@
-# KlaviyoDeployer
+<img src="https://user-images.githubusercontent.com/38300939/220998325-6958d659-1c4f-4c28-b820-1f448a91e60a.png" width=300>
+
 A GitHub Pages solution to deploy [Klaviyo](https://klaviyo.com)-built signup pages. Made using basic HTML and JavaScript. 
 
 JavaScript code is derived from Klaviyo itself.
