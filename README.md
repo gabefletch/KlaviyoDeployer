@@ -19,4 +19,10 @@ KlaviyoDeployer is an opensource project by [Gabe Fletcher](https://dub.sh/gabe)
 
 The index.html should appear as follows:
 ```
+<script async type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=YOUR_ID"></script>
+```
+- You'll need to find and replace "YOUR_ID" with your 6-digit Klaviyo form ID. 
+- [How do I find my Klaviyo form ID?]
 
+## How do I find my Klaviyo form ID?
+- When logged in to Klaviyo, go to the landing page or form you wish to deploy with KlaviyoDeployer and 
