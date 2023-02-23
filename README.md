@@ -2,7 +2,7 @@
 
 A GitHub Pages solution to deploy [Klaviyo](https://klaviyo.com)-built signup pages. Made using basic HTML and JavaScript. 
 
-JavaScript code is derived from Klaviyo itself.
+[JavaScript code is derived from Klaviyo itself.](https://help.klaviyo.com/hc/en-us/articles/360002035871-How-to-install-Klaviyo-js-to-publish-sign-up-forms)
 
 KlaviyoDeployer is an opensource project by [Gabe Fletcher](https://dub.sh/gabe).
 
