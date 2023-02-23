@@ -22,7 +22,7 @@ The index.html should appear as follows:
 <script async type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=YOUR_ID"></script>
 ```
 - You'll need to find and replace "YOUR_ID" with your 6-digit Klaviyo form ID. 
-- [How do I find my Klaviyo form ID?]
+- [How do I find my Klaviyo form ID?](https://github.com/gabefletch/KlaviyoDeployer/tree/main#how-do-i-find-my-klaviyo-form-id) 
 
 ### 4. Deploy with GitHub Pages
 - Follow [these instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) to deploy your respository data to GitHub Pages, and in turn your Klaviyo form/landing page.
