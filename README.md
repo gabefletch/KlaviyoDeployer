@@ -30,7 +30,7 @@ The index.html should appear as follows:
 ### 5. Test Your Deployment
 - You can access your GitHub Pages deployment with the following syntax:
 
-***username***.github.io/***repository_name***
+USERNAME.github.io/REPOSITORY_NAME
 
 ## How do I find my Klaviyo form ID?
 - When logged in to Klaviyo, go to the landing page or form you wish to deploy with KlaviyoDeployer and you'll find your Form ID at the end of the URL.
