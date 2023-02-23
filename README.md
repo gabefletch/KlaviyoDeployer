@@ -26,6 +26,11 @@ The index.html should appear as follows:
 ### 4. Deploy with GitHub Pages
 - Follow [these instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) to deploy your respository data to GitHub Pages, and in turn your Klaviyo form/landing page.
 
+### 5. Test Your Deployment
+- You can access your GitHub Pages deployment with the following syntax:
+
+***username***.github.io/***repository_name***
+
 ## How do I find my Klaviyo form ID?
 - When logged in to Klaviyo, go to the landing page or form you wish to deploy with KlaviyoDeployer and you'll find your Form ID at the end of the URL.
 - Copy this ID to replace "YOUR_ID" in your "index.html" file in your respository. 
