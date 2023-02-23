@@ -16,6 +16,7 @@ KlaviyoDeployer is an opensource project by [Gabe Fletcher](https://dub.sh/gabe)
 - Creating your own "readme.md" file is recommended but not absolutely required.
 ### 3. Edit "index.html" to load your Klaviyo page:
 - While viewing the repository you just created, click "index.html" located above this "readme.md"
+
 The index.html should appear as follows:
 ```
 
