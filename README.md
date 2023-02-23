@@ -7,16 +7,15 @@ JavaScript code is derived from Klaviyo itself.
 KlaviyoDeployer is an opensource project by [Gabe Fletcher](https://dub.sh/gabe).
 
 ## Usage
-### 1. Download this repository:
-- Click the green "Code" button above
-- Click "Download as .zip"
+### 1. Download the KlaviyoDeployer HTML File:
+- Go to this repository's [Releases](https://github.com/gabefletch/KlaviyoDeployer/Releases) and click "index.html" under the latest release to download it.
 ### 2. Create your own repository:
 - Click the "+" icon next to your profile picture in the upper-right of GitHub
 - Click "New repository"
 - Name it however you wish; we recommend something like "(YourNewsletterName)Deployer"
 - Creating your own "readme.md" file is recommended but not absolutely required.
 ### 3. Edit "index.html" to load your Klaviyo page:
-- Add the "index.html" file that you downloaded (in the .zip file) to your repository.
+- Add the "index.html" file that you downloaded to your repository.
 - While viewing the repository you just created, click "index.html" located above this "readme.md"
 
 The index.html should appear as follows:
